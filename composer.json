@@ -1,0 +1,44 @@
+{
+    "name": "exadra37-docker-images/php7/composer",
+    "description": "Docker Image to run Composer for Php7 versions without using root user in order to avoid permissions issues between container and host.",
+    "keywords": [
+        "Exadra37",
+        "docker",
+        "docker php",
+        "docker php7",
+        "docker stack",
+        "docker composer",
+        "docker php7 composer",
+        "composer",
+        "composer php",
+        "composer php7",
+        "composer docker",
+        "php7",
+        "php7 docker",
+        "php7 composer",
+        "php7 docker composer",
+        "php",
+        "php docker",
+        "php composer",
+        "php docker composer"
+    ],
+    "homepage": "https://gitlab.com/exadra37-docker-images/php7/composer",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Exadra37",
+            "email": "exadra37@gmail.com",
+            "homepage": "https://exadra37.com",
+            "role": "Software Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://gitlab.com/groups/exadra37-docker-images/php7/composer/issues",
+        "source": "https://gitlab.com/exadra37-docker-images/php7/composer/docker-stack/tree/master"
+    },
+    "bin": [
+        "bin/composer"
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
