@@ -8,7 +8,6 @@ This is part of a series of packages for the [Php7 Docker Stack](https://gitlab.
 
 ---
 
-[<< previous](why_exists.md) | [next >>](when_to_use_it.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/introduction/why_exists.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/when_to_use_it.md)
 
-[HOME](./../../README.md)
-
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

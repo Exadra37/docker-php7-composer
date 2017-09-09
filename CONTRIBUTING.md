@@ -30,6 +30,6 @@ When you are ready to merge it, please proceed as per this [Merge Requests Guide
 
 ---
 
-[<< previous](./docs/how-to/use.md) | [next >>](./docs/how-to/create_an_issue.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/use.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_an_issue.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

@@ -14,6 +14,6 @@ Please [give us feedback](https://gitlab.com/exadra37-docker-images/php7/compose
 
 ---
 
-[<< previous](create_a_merge_request.md) | [next >>](./../../AUTHOR.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_a_merge_request.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/AUTHOR.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

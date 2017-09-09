@@ -13,6 +13,6 @@ This is part of a series of packages for the [Php7 Docker Stack](https://gitlab.
 
 ---
 
-[<< previous](./../../README.md) | [next >>](what_is_it.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/introduction/what_is_it.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

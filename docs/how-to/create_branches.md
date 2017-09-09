@@ -49,6 +49,6 @@ git fetch && git checkout -b 16_implement-file-system-cache` origin/milestone-12
 
 ---
 
-[<< previous](create_an_issue.md) | [next >>](create_a_merge_request.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_an_issue.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_a_merge_request.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

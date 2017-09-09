@@ -8,6 +8,6 @@ Assuming that the [Install Intructions](install.md) have been followed, includin
 
 ---
 
-[<< previous](install.md) | [next >>](./../../CONTRIBUTING.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/install.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/CONTRIBUTING.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

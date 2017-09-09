@@ -12,7 +12,7 @@ Docker needs to be installed in our computer in order to use this package, thus 
 ##### Type in the shell:
 
 ```bash
-sudo docker run --rm -it exadra37-docker-images/php7-composer
+sudo docker run --rm -it exadra37/php7-composer
 ```
 
 ### Install With Specific Php Version
@@ -20,7 +20,7 @@ sudo docker run --rm -it exadra37-docker-images/php7-composer
 ##### Type in the shell:
 
 ```bash
-sudo docker run --rm -it exadra37-docker-images/php7-composer:7.0
+sudo docker run --rm -it exadra37/php7-composer:7.0
 ```
 
 ### Install Expected output
@@ -53,7 +53,7 @@ So instead of using the above long commands to invoke composer from docker we ca
 ##### Type in the shell:
 
 ```bash
-echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra37-docker-images/php7-composer"' >> ~/.zshrc && . ~/.zshrc
+echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra37/php7-composer"' >> ~/.zshrc && . ~/.zshrc
 ```
 
 ### For Bash Shell
@@ -61,7 +61,7 @@ echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra
 ##### Type in the shell:
 
 ```bash
-echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra37-docker-images/php7-composer"' >> ~/.bashrc && . ~/.bashrc
+echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra37/php7-composer"' >> ~/.bashrc && . ~/.bashrc
 ```
 
 The alias should be now working...
@@ -113,6 +113,6 @@ Help:
 
 ---
 
-[<< previous](./../introduction/why_exists.md) | [next >>](use.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/introduction/why_exists.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/use.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)

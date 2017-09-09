@@ -7,24 +7,24 @@ container and host.
 ## MENU
 
 * **Introduction**
-    + [Why Exists?](./docs/introduction/why_exists.md)
-    + [What Is It?](./docs/introduction/what_is_it.md)
-    + [When To use It?](./docs/introduction/when_to_use_it.md)
+    + [Why Exists?](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/introduction/why_exists.md)
+    + [What Is It?](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/introduction/what_is_it.md)
+    + [When To use It?](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/introduction/when_to_use_it.md)
 * **How To**
-    + [Install](./docs/how-to/install.md)
-    + [Use](./docs/how-to/use.md)
-    + [Report an Issue](./docs/how-to/create_an_issue.md)
-    + [Create a Branch](./docs/how-to/create_branches.md)
-    + [Open a Merge Request](./docs/how-to/create_a_merge_request.md)
-    + [Uninstall](./docs/how-to/uninstall.md)
+    + [Install](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/install.md)
+    + [Use](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/use.md)
+    + [Report an Issue](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_an_issue.md)
+    + [Create a Branch](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_branches.md)
+    + [Open a Merge Request](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_a_merge_request.md)
+    + [Uninstall](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/uninstall.md)
 * **Road Map**
     + [Milestones](https://gitlab.com/exadra37-docker-images/php7/composer/milestones)
     + [Overview](https://gitlab.com/exadra37-docker-images/php7/composer/boards)
 * **About**
-    + [Author](AUTHOR.md)
-    + [Contributors](CONTRIBUTORS.md)
-    + [Contributing](CONTRIBUTING.md)
-    + [License](LICENSE)
+    + [Author](https://gitlab.com/exadra37-docker-images/php7/composer/AUTHOR.md)
+    + [Contributors](https://gitlab.com/exadra37-docker-images/php7/composer/CONTRIBUTORS.md)
+    + [Contributing](https://gitlab.com/exadra37-docker-images/php7/composer/CONTRIBUTING.md)
+    + [License](https://gitlab.com/exadra37-docker-images/php7/composer/LICENSE)
 
 
 ## SUPPORT DEVELOPMENT

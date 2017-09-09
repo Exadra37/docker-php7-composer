@@ -40,6 +40,6 @@ Create each issue [here](https://gitlab.com/exadra37-docker-images/php7/composer
 
 ---
 
-[<< previous](./../../CONTRIBUTING.md) | [next >>](create_branches.md)
+[<< previous](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/CONTRIBUTING.md) | [next >>](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/docs/how-to/create_branches.md)
 
-[HOME](./../../README.md)
+[HOME](https://gitlab.com/exadra37-docker-images/php7/composer/blob/master/README.md)
