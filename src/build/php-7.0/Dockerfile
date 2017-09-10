@@ -1,4 +1,4 @@
-FROM php:7.0
+FROM php:7.1
 
 # The main goal of this image is to be able to rum composer under specific PHP versions.
 
