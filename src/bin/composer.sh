@@ -19,4 +19,8 @@ fi
 
 printf "\n\e[1;${LABEL_COLOR} DOCKER IMAGE: \e[30;48;5;229m ${DOCKER_IMAGE}:${PHP_VERSION} \e[0m \n\n"
 
-sudo docker run --rm -it -v "${PWD}":/home/composer/app "${DOCKER_IMAGE}":"${PHP_VERSION}" "${@}"
+sudo docker run --rm -it \
+    -v ~/.ssh:/home/composer/.ssh \
+    -v "${PWD}":/home/composer/app \
+    "${DOCKER_IMAGE}":"${PHP_VERSION}" \
+    "${@}"
