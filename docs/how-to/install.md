@@ -46,22 +46,12 @@ If we see a similar output we are in the right track.
 
 ## Bash Script Alias
 
-So instead of using the above long commands to invoke composer from docker we can alias it to use it as we normally do.
-
-### For ZSH Shell
+So instead of using the long Docker command to invoke composer we can create an alias to use it as we normally do.
 
 ##### Type in the shell:
 
 ```bash
-echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra37/php7-composer"' >> ~/.zshrc && . ~/.zshrc
-```
-
-### For Bash Shell
-
-##### Type in the shell:
-
-```bash
-echo 'alias composer="sudo docker run --rm -it -v $PWD:/home/composer/app exadra37/php7-composer"' >> ~/.bashrc && . ~/.bashrc
+curl -L https://gitlab.com/exadra37-bash/bin-package-installer/raw/last-stable-release/src/installer.sh | bash -s -- -n exadra37-docker-images -p php7-composer -t latest -s composer:src/bin/composer.sh
 ```
 
 The alias should be now working...
@@ -75,6 +65,10 @@ composer --help
 ##### Expected Output:
 
 ```bash
+
+DOCKER IMAGE:  exadra37/php7-composer:php-7.1
+
+
 Usage:
   help [options] [--] [<command_name>]
 
@@ -109,7 +103,6 @@ Help:
   To display the list of available commands, please use the list command.
 
 ```
-
 
 ---
 
