@@ -1,5 +1,6 @@
 #!/bin/bash
 
+LABEL_COLOR="40m" #DARK BLACK
 DOCKER_IMAGE=exadra37/php7-composer
 PHP_VERSION=7.1
 
