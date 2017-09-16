@@ -46,12 +46,11 @@ Branches are created as demonstrated [here](docs/how-to/create_branches.md).
 
 ### Permanent Branches
 
-* `master`        - Issues and milestones branches will be merged here.
-* `latest`        - The latest docker image is created from this branch.
-* `php:<version>` - A branch for each supported Php7 version for the Docker Image.
-* `dev`           - For active development of any supported php version. Expect push forces at any moment here.
+* `master` - Issues and milestones branches will be merged here.
+* `latest` - The latest docker images for any supported version are created from this branch.
 
 ### Temporary Branches
 
+* `dev-php:<version>` - A branch for active development of each supported Php7 version for the Docker Image.
 * `4-fix-php7.0-build` (issue-number-title) - each issue will have is own branch for development.
 * `milestone-12_add-cache` (milestone-number_title) - all Milestone issues will start, track and merged here.
