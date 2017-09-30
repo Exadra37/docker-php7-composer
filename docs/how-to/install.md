@@ -20,7 +20,7 @@ sudo docker run --rm -it exadra37/php7-composer
 ##### Type in the shell:
 
 ```bash
-sudo docker run --rm -it exadra37/php7-composer:7.0
+sudo docker run --rm -it exadra37/php7-composer:php-7.0
 ```
 
 ### Install Expected output
@@ -51,7 +51,7 @@ So instead of using the long Docker command to invoke composer we can create an 
 ##### Type in the shell:
 
 ```bash
-curl -L https://gitlab.com/exadra37-bash/bin-package-installer/raw/last-stable-release/src/installer.sh | bash -s -- -n exadra37-docker-images -p php7-composer -t latest -s composer:src/bin/composer.sh
+curl -L https://gitlab.com/exadra37-bash/bin-package-installer/raw/last-stable-release/src/installer.sh | bash -s -- -n exadra37-docker-images -p php7-composer -t latest -s dkcomposer:src/bin/composer.sh
 ```
 
 The alias should be now working...
@@ -59,7 +59,7 @@ The alias should be now working...
 ##### Type in the shell:
 
 ```bash
-composer --help
+dkcomposer --help
 ```
 
 ##### Expected Output:

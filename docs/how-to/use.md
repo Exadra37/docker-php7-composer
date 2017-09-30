@@ -7,10 +7,10 @@ Assuming that the [Install Intructions](install.md) have been followed, includin
 
 ## For Specific Php Version
 
-Normally when we invoke `composer` from our shell it will run using the last stable Php version, but we will always want to run it with the exact same Php version being used by our project, thus we have a way to specify it...
+Normally when we invoke `dkcomposer` from our shell it will run using the last stable Php version, but we will always want to run it with the exact same Php version being used by our project, thus we have a way to specify it...
 
 ```
-composer --php 7.0 <composer-command-here>
+dkcomposer --php 7.0 <composer-command-here>
 ```
 
 ---
