@@ -14,6 +14,9 @@ RUN apt-get -y update && \
         zip \
         unzip && \
 
+    docker-php-ext-install \
+        sockets && \
+
     # creates composer user
     useradd -m -u 1000 -s /usr/bin/zsh "${CONTAINER_USER}" && \
 
