@@ -21,7 +21,8 @@ RUN apt-get -y update && \
     mv composer.phar /usr/local/bin/composer && \
     composer
 
-COPY --chown=composer:composer ./bash/entrypoint.sh "/home/composer/.entrypoint.sh"
+COPY ./bash/entrypoint.sh "/home/composer/.entrypoint.sh"
+RUN chown composer:composer /home/composer/.entrypoint.sh
 
 USER composer
 
