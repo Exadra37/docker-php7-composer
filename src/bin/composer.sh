@@ -2,7 +2,7 @@
 
 LABEL_COLOR="40m" #DARK BLACK
 DOCKER_IMAGE=exadra37/php7-composer
-PHP_VERSION="php-7.1"
+PHP_VERSION="php-7.2"
 
 if [ "--php" == "${1}" ]
     then
